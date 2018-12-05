@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/MirAdnan/Documents/DSD/VHDL/ALU4bit/tb_isim_beh.exe" -prj "C:/Users/MirAdnan/Documents/DSD/VHDL/ALU4bit/tb_beh.prj" "work.tb" 

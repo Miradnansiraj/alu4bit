@@ -1,0 +1,4 @@
+vhdl work "multiplier4bit.vhd"
+vhdl work "addsubtract.vhd"
+vhdl work "alu4bit.vhd"
+vhdl work "tb.vhd"

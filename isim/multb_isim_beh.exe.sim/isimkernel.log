@@ -1,0 +1,28 @@
+Command line:
+   multb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62362
+
+Wed Dec 05 18:37:13 2018
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5020.96 Meg
+
+ Total Signals          : 6
+ Total Nets             : 16
+ Total Signal Drivers   : 3
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 2
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 499
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5020.96 Meg
+
+Wed Dec 05 18:40:13 2018
+

@@ -1,0 +1,4 @@
+vhdl isim_temp "subtractor4bit.vhd"
+vhdl isim_temp "multiplier4bit.vhd"
+vhdl isim_temp "adder4bit.vhd"
+vhdl isim_temp "alu4bit.vhd"
