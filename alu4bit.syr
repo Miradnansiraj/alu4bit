@@ -3,14 +3,14 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 --> Parameter TMPDIR set to xst/projnav.tmp
 
 
-Total REAL time to Xst completion: 1.00 secs
-Total CPU time to Xst completion: 0.68 secs
+Total REAL time to Xst completion: 3.00 secs
+Total CPU time to Xst completion: 2.26 secs
  
 --> Parameter xsthdpdir set to xst
 
 
-Total REAL time to Xst completion: 1.00 secs
-Total CPU time to Xst completion: 0.69 secs
+Total REAL time to Xst completion: 3.00 secs
+Total CPU time to Xst completion: 2.26 secs
  
 --> Reading design: alu4bit.prj
 
@@ -131,22 +131,22 @@ Elaborating entity <multiplier4bit> (architecture <structural>) from library <wo
 
 Synthesizing Unit <alu4bit>.
     Related source file is "C:\Users\MirAdnan\Documents\DSD\VHDL\ALU4bit\alu4bit.vhd".
-    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_233_o> created at line 62.
-    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_237_o> created at line 62.
-    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_241_o> created at line 62.
-    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_cout1_MUX_245_o> created at line 62.
-    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[3]_MUX_249_o> created at line 62.
-    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[2]_MUX_253_o> created at line 62.
-    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[1]_MUX_257_o> created at line 62.
-    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[0]_MUX_261_o> created at line 62.
-    Found 1-bit tristate buffer for signal <F<7>> created at line 60
-    Found 1-bit tristate buffer for signal <F<6>> created at line 60
-    Found 1-bit tristate buffer for signal <F<5>> created at line 60
-    Found 1-bit tristate buffer for signal <F<4>> created at line 60
-    Found 1-bit tristate buffer for signal <F<3>> created at line 60
-    Found 1-bit tristate buffer for signal <F<2>> created at line 60
-    Found 1-bit tristate buffer for signal <F<1>> created at line 60
-    Found 1-bit tristate buffer for signal <F<0>> created at line 60
+    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_233_o> created at line 33.
+    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_237_o> created at line 33.
+    Found 1-bit 3-to-1 multiplexer for signal <Z_4_o_GND_4_o_MUX_241_o> created at line 33.
+    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_cout1_MUX_245_o> created at line 33.
+    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[3]_MUX_249_o> created at line 33.
+    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[2]_MUX_253_o> created at line 33.
+    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[1]_MUX_257_o> created at line 33.
+    Found 1-bit 4-to-1 multiplexer for signal <Z_4_o_addout[0]_MUX_261_o> created at line 33.
+    Found 1-bit tristate buffer for signal <F<7>> created at line 31
+    Found 1-bit tristate buffer for signal <F<6>> created at line 31
+    Found 1-bit tristate buffer for signal <F<5>> created at line 31
+    Found 1-bit tristate buffer for signal <F<4>> created at line 31
+    Found 1-bit tristate buffer for signal <F<3>> created at line 31
+    Found 1-bit tristate buffer for signal <F<2>> created at line 31
+    Found 1-bit tristate buffer for signal <F<1>> created at line 31
+    Found 1-bit tristate buffer for signal <F<0>> created at line 31
     Summary:
 	inferred   8 Multiplexer(s).
 	inferred   8 Tristate(s).
@@ -162,7 +162,7 @@ Unit <addsubtract> synthesized.
 
 Synthesizing Unit <multiplier4bit>.
     Related source file is "C:\Users\MirAdnan\Documents\DSD\VHDL\ALU4bit\multiplier4bit.vhd".
-    Found 4x4-bit multiplier for signal <F> created at line 52.
+    Found 4x4-bit multiplier for signal <F> created at line 13.
     Summary:
 	inferred   1 Multiplier(s).
 Unit <multiplier4bit> synthesized.
@@ -337,7 +337,7 @@ Slice Logic Distribution:
    Number of unique control sets:         0
 
 IO Utilization: 
- Number of IOs:                          22
+ Number of IOs:                          18
  Number of bonded IOBs:                  18  out of    210     8%  
 
 Specific Feature Utilization:
@@ -412,12 +412,12 @@ Cross Clock Domains Report:
 =========================================================================
 
 
-Total REAL time to Xst completion: 35.00 secs
-Total CPU time to Xst completion: 34.98 secs
+Total REAL time to Xst completion: 30.00 secs
+Total CPU time to Xst completion: 30.01 secs
  
 --> 
 
-Total memory usage is 4669012 kilobytes
+Total memory usage is 4669000 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\MirAdnan\Documents\DSD\VHDL\ALU4bit\alu4bit.ncd
+OUTFILE=C:\Users\MirAdnan\Documents\DSD\VHDL\ALU4bit\alu4bit.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\MirAdnan\Documents\DSD\VHDL\ALU4bit
+LICENSE=WebPack
+USER_INFO=__0_0_0
